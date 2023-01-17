@@ -1,0 +1,43 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 20px;
+    color: #454545;
+    padding: 0 10px;
+    font-family: 'Bodoni 11';
+    font-weight: medium;
+  }
+  h1,h2,h3 {
+    line-height: 1.2;
+    font-family: 'Bodoni 11';
+  }
+  nav a {
+    margin-right: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #454545;
+    font-weight: bold;
+    padding: 0 5px;
+  }
+  header {
+    margin-bottom: 1em;
+    line-height: 1;
+  }
+  a:hover {
+    text-decoration: underline; 
+  }
+  .title:hover {
+    text-decoration: none;
+  }
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .narrow {
+    width: 70%
+  }
