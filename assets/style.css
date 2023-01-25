@@ -12,11 +12,13 @@ body {
     line-height: 1.2;
     font-family: 'Bodoni 11';
   }
+a {
+    color: #3d2b1f;
+}
   nav a {
     margin-right: 8px;
     text-decoration: none;
     font-size: 18px;
-    color: #3d2b1f;
     font-weight: bold;
     padding: 0 5px;
   }
