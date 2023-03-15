@@ -5,12 +5,13 @@ body {
     font-size: 20px;
     color: #3d2b1f;
     padding: 0 10px;
-    font-family: 'Bodoni 11';
+    font-family: 'Besley 11';
     font-weight: medium;
   }
   h1,h2,h3 {
     line-height: 1.2;
-    font-family: 'Bodoni 11';
+    font-family: 'Besley 11';
+    font-weight: 100;
   }
 a {
     color: #3d2b1f;
