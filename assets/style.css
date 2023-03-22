@@ -3,7 +3,7 @@ body {
     max-width: 650px;
     line-height: 1.6;
     font-size: 20px;
-    color: #3d2b1f;
+    color: #5E3318;
     padding: 0 10px;
     font-family: 'Besley 11';
     font-weight: medium;
@@ -20,7 +20,7 @@ h2,h3 {
     font-weight: 100;
   }
 a {
-    color: #3d2b1f;
+    color: #5E3318;
 }
   nav a {
     margin-right: 8px;
